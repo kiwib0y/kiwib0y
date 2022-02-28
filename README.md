@@ -11,4 +11,12 @@ which in my opinion is the best text editor ever created. I know that it probabl
 looks like a bold claim, but really give Emacs a try and you'll see what I'm
 talking about ;)
 
+## Tech I like
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-line.svg" title="Clojure" alt="clj" width="45" height="45"/>&nbsp;
+	<img src="http://git.savannah.gnu.org/cgit/emacs.git/plain/etc/images/icons/hicolor/scalable/apps/emacs.svg" title="Emacs" alt="elisp" width="45" height="45"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="45" height="45"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="rust" width="45" height="45"/>&nbsp;
+</div>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiB0y&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
