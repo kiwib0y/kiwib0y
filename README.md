@@ -10,6 +10,7 @@ talking about ;)
 	<img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" title="Clojure" alt="clj" width="45" height="45"/>&nbsp;
 	<img src="https://www.gnu.org/software/emacs/images/emacs.png" title="Emacs" alt="elisp" width="45" height="45"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="45" height="45"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="rust" width="45" height="45"/>&nbsp;
 </div>
 
