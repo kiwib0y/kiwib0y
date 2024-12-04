@@ -1,7 +1,7 @@
 # Hello World! :wave: Welcome to my github page!
 
 I run a GNU/Linux OS on all of my devices and I spend most of my time in :ox: Emacs,
-which in my opinion is the best text editor ever created. I know that it probably
+which of course is the best text editor ever created. I know that it probably
 looks like a bold claim, but really give Emacs a try and you'll see what I'm
 talking about ;)
 
